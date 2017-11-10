@@ -1,4 +1,4 @@
-[dev time tracker](https://i.imgur.com/AQn2yYR.png)
+![dev time tracker](https://i.imgur.com/AQn2yYR.png)
 
 ## Dev Time Tracker
 ---
