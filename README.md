@@ -3,7 +3,6 @@
 </p>
 
 ## Dev Time Tracker
----
 >Simple time tracker designed for developers
 
 * **Simple** Very simple to use
