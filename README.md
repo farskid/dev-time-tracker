@@ -1,4 +1,4 @@
-<img width="300" alt="dev time tracker" src="https://i.imgur.com/AQn2yYR.png">
+<img style="display: block;margin: 0 auto 10px;" width="300" alt="dev time tracker" src="https://i.imgur.com/AQn2yYR.png">
 
 ## Dev Time Tracker
 ---
