@@ -11,7 +11,5 @@
 
 *Dev Time Tracker* is designed for developers, but anyone can use it.
 
-### Install
-
 #### License
 &copy; MIT
